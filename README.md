@@ -53,3 +53,5 @@ Output: "0102030405"
 - Have RegistrationID as primary key for the fall2022 table.
 - Add 5 records to all the tables.
 - Get all the records and show them in the form.
+
+Also, there's a SQL cheat sheet available to you.
