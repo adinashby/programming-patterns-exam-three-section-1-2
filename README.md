@@ -44,7 +44,7 @@ Output: "0102030405"
 
 `1 <= n <= 1000`
 
-2. Add the MVCExample project to a database using SQLite, called **School.db** and do the following operations:
+2. Connect the MVCExample project to a database using SQLite, called **School.db** and do the following operations:
 
 - Create a student table, a course table and a fall2022 table.
 - Have studentID as primary key in the student table and as foreign key to the fall2022 table. Other columns would be name, and phone number.
